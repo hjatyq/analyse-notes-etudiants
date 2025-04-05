@@ -2,6 +2,6 @@
 
 Ce projet est un TP de manipulation et d'analyse de données avec Python et pandas. Il se concentre sur le nettoyage et l'analyse statistique des notes d'étudiants à partir d'un fichier Excel.
 
-<img src="cap1.png" alt="" srcset="" />
-<img src="cap2.png" alt="" srcset="" />
-    
+
+<img src="images/cap1.png" alt="Capture 1" width="600"/>
+<img src="images/cap2.png" alt="Capture 2" width="600"/>
